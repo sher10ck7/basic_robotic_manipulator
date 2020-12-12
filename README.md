@@ -2,7 +2,7 @@
 
 ### Source the catkin workspace
 
-$ source devel/setup.bash
+> source devel/setup.bash
 
 ### Launch Gazebo Simulator
 

@@ -7,3 +7,7 @@
 ### Launch Gazebo Simulator
 
 `roslaunch gazebo_ros empty_world.launch`
+
+### Spawn the robot model
+
+`roslaunch mrm_description spawn.launch`
